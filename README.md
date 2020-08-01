@@ -1,2 +1,2 @@
-# Customer_Segmentation
- Customer Segmentation implementation
+# Customer Segmentation
+ Customer Segmentation implementation in R
